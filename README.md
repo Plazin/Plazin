@@ -5,7 +5,7 @@
 ### Conhecimento avançado em Língua Inglesa (escrita e leitura) e intermediário em conversação. Espanhol básico.
 
 # 👨‍💻Tecnologias
-### Conhecimento em Tecnologias: HTML, CSS, Javascript & Bootstrap
+### Conhecimento em Tecnologias: HTML, CSS, Javascript, Bootstrap & React
 
 [![](https://github-readme-stats.vercel.app/api?username=NandoPla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/NandoPla)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dracula)
