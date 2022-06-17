@@ -10,7 +10,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=NandoPla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/NandoPla)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={NandoPla}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=blue-green)
 
 # 👨‍💻Tecnologias que utilizo
 
@@ -22,6 +22,4 @@
   <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img align="center" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
