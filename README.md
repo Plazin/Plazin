@@ -1,5 +1,6 @@
 # 📚Experiência
-### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. Experiência em análise de dados, envolvendo tráfego, interesse de público alvo e marketing também são meus pontos fortes, além da programação.
+### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. 
+Experiência em análise de dados, envolvendo tráfego, interesse de público alvo e marketing também são meus pontos fortes, além da programação.
 
 # 🗯 Idiomas
 ### Conhecimento avançado em Língua Inglesa (escrita e leitura) e intermediário em conversação. Espanhol básico.
