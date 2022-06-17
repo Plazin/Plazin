@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=NandoPla&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/NandoPla/github-readme-stats)
 
 
 # 👨‍💻Tecnologias que utilizo
