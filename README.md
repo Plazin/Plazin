@@ -10,6 +10,8 @@
 [![](https://github-readme-stats.vercel.app/api?username=NandoPla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/NandoPla)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dracula)
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]
+
 # 👨‍💻Tecnologias que utilizo
 
 <div style="display: inline_block">
@@ -20,3 +22,5 @@
   <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
+  <img align="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg" />
