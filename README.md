@@ -8,11 +8,9 @@
 # 🧑🏻 Conhecimento
 ### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
 
-
 [![GitHun Stats](https://github-readme-stats.vercel.app/api?username=NandoPla&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/NandoPla)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)
-![Github Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dark)
-
+![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dark)
 
 # 👨‍💻Tecnologias que utilizo
 
