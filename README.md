@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NandoPla&show_icons=true&theme=dark&include_all_commits=true&count_private=true)]     (https://github.com/NandoPla)"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br"/>
-  <img style = width:"2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dark" />
+  <img width:"400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 # 👨‍💻Tecnologias que utilizo
