@@ -26,6 +26,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  
-###
-<img src="https://github.com/NandoPla/NandoPla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
