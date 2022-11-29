@@ -1,6 +1,6 @@
 # 📚Experiência
 ### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. 
-### Experiência em Programação, Marketing, e Edição.
+### Experiência em Programação, Marketing, e Edição de vídeos e Imagem.
 
 # 🗯 Idiomas
 ### Conhecimento avançado em Língua Inglesa (escrita e leitura) e intermediário em conversação. Espanhol básico.
