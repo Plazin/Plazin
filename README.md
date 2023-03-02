@@ -9,7 +9,7 @@
 ### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=dark&layout=compact" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=dark&layout=compact" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
 </div>
 
