@@ -1,6 +1,6 @@
 # 📚Experiência
 ### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. No momento estou estudando programação tanto para web quanto para jogos.
-### Experiência em Programação, Marketing, e Edição de vídeos e Imagem.
+### Experiência em Programação, Marketing, Edição de vídeos e Imagem.
 
 # 🧑🏻 Conhecimento
 ### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
