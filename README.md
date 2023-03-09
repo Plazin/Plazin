@@ -6,8 +6,9 @@
 ### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
 
 <div align="center">
-  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=dark&layout=compact" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
+  
+  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
 </div>
 
 # 👨‍💻Tecnologias que utilizo
@@ -24,5 +25,4 @@
   
 
 ![snake gif](https://github.com/NandoPla/NandoPla/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/NandoPla/count.svg" /></p>
