@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact&hide=[PHP]" />
+  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
 </div>
 
