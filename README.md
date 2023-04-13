@@ -1,14 +1,15 @@
-# 📚Experiência
+# 📚Experiência:
 #### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. No momento estou estudando React Native, além de programação para jogos.
 #### Experiência em Programação, Marketing, Edição de vídeos e Edição de Imagem.
 
-# 🧑🏻 Conhecimento
-#### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
+# 🧑🏻 Conhecimento em linguagens e plataformas:
+#### ✅ Conhecimento nas linguagens: HTML, CSS, Javascript, Typescript, Python e o framework React Native.
+#### ✅ Conhecimento nas plataformas: Wordpress, Magento & Wappler.
 
 <div align="center">
   
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
-  <img width="46%" src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br"/>
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
+  <img width="47.5%" src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br"/>
 </div>
 
 # 👨‍💻Tecnologias que utilizo
@@ -26,3 +27,6 @@
 
 ![snake gif](https://github.com/NandoPla/NandoPla/blob/output/github-contribution-grid-snake.svg)
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/NandoPla/count.svg" /></p>
+  <div align="center">
+    <em>Obrigado por visitar :)</em>
+  </div>
