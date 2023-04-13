@@ -1,14 +1,14 @@
 # 📚Experiência
-### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. No momento estou estudando React Native, além de programação para jogos.
-### Experiência em Programação, Marketing, Edição de vídeos e Edição de Imagem.
+#### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. No momento estou estudando React Native, além de programação para jogos.
+#### Experiência em Programação, Marketing, Edição de vídeos e Edição de Imagem.
 
 # 🧑🏻 Conhecimento
-### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
+#### Possuo conhecimento em: HTML, CSS, Javascript, Typescript, React, Wordpress & Python.
 
 <div align="center">
   
-  <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br" height="180"/>
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
+  <img width="46%" src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br"/>
 </div>
 
 # 👨‍💻Tecnologias que utilizo
