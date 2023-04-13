@@ -2,7 +2,7 @@
 #### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. No momento estou estudando React Native, além de programação para jogos.
 #### Experiência em Programação, Marketing, Edição de vídeos e Edição de Imagem.
 
-# 🧑🏻 Conhecimento em linguagens e plataformas:
+# 🧑🏻 Skills:
 #### ✅ Conhecimento nas linguagens: HTML, CSS, Javascript, Typescript, Python e o framework React Native.
 #### ✅ Conhecimento nas plataformas: Wordpress, Magento & Wappler.
 
