@@ -1,10 +1,10 @@
-# 📚Experiência:
-#### Trabalho atualmente com desenvolvimento web, focado tanto para vendas quanto institucional. Além disso, possuo experiência com softwares de edição como Illustrator, Photoshop e Sony Vegas Pro. No momento estou estudando React Native, além de programação para jogos.
-#### Experiência em Programação, Marketing, Edição de vídeos e Edição de Imagem.
+## 📚Experiência:
+#### ✅ 2 Anos de experiência com desenvolvimento web, criando páginas institucionais e para vendas. 
+#### ✅ 3 Anos de experiência com softwares de edição: Illustrator, Photoshop e Sony Vegas Pro.
 
 # 🧑🏻 Skills:
 #### ✅ Conhecimento nas linguagens: HTML, CSS, Javascript, Typescript, Python e o framework React Native.
-#### ✅ Conhecimento nas plataformas: Wordpress, Magento & Wappler.
+#### ✅ Conhecimento nas plataformas: VsCode, Wordpress, Magento & Wappler.
 
 <div align="center">
   
@@ -12,7 +12,7 @@
   <img width="47.5%" src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br"/>
 </div>
 
-# 👨‍💻Tecnologias que utilizo
+## 👨‍💻Tecnologias que utilizo
 
 <div style="display: inline_block">
 
