@@ -2,7 +2,7 @@
 #### ✅ 2 Anos de experiência com desenvolvimento web, criando páginas institucionais e para vendas. 
 #### ✅ 3 Anos de experiência com softwares de edição: Illustrator, Photoshop e Sony Vegas Pro.
 
-# 🧑🏻 Skills:
+## 🧑🏻 Skills:
 #### ✅ Conhecimento nas linguagens: HTML, CSS, Javascript, Typescript, Python e o framework React Native.
 #### ✅ Conhecimento nas plataformas: VsCode, Wordpress, Magento & Wappler.
 
