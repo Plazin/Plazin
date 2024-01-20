@@ -6,12 +6,6 @@
 #### ✅ Conhecimento nas linguagens: HTML, CSS, Javascript, Typescript, Python e o framework React Native.
 #### ✅ Conhecimento nas plataformas: VsCode, Wordpress, Magento & Wappler.
 
-<div align="center">
-  
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPla&theme=aura&layout=compact" />
-  <img width="47.5%" src="http://github-readme-streak-stats.herokuapp.com?user=NandoPla&theme=aura&hide_border=false&date_format=j%2Fn%5B%2FY%5D&locale=pt-br"/>
-</div>
-
 ## 👨‍💻Tecnologias que utilizo
 
 <div style="display: inline_block">
